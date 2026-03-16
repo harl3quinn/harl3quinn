@@ -1,35 +1,3 @@
-hey there, welcome to my github profile!
+Hey there! I'm Jesse. I require reference with she/her pronouns to perform within acceptable parameters.
 
-im practicing javascript and a bit of lua here n there.
-
-i go by they/them pronouns
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-you can go now. you really don't need to read this
+I'm new to coding and have no idea what I'm doing.
